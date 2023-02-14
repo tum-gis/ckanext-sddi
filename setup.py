@@ -23,7 +23,7 @@ setup(
     long_description_content_type="text/markdown",
 
     # The project's main homepage.
-    url='https://github.com/MarijaKnezevic/ckanext-sddi',
+    url='https://github.com/tum-gis/ckanext-sddi',
 
     # Author details
     author='''Marija Knezevic''',

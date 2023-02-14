@@ -1,4 +1,4 @@
-[![Tests](https://github.com/MarijaKnezevic/ckanext-sddi/workflows/Tests/badge.svg?branch=main)](https://github.com/MarijaKnezevic/ckanext-sddi/actions)
+[![Tests](https://github.com/tum-gis/ckanext-sddi/workflows/Tests/badge.svg?branch=main)](https://github.com/tum-gis/ckanext-sddi/actions)
 
 # ckanext-sddi
 
@@ -43,7 +43,7 @@ To install ckanext-sddi:
 
 2. Clone the source and install it on the virtualenv
 
-    git clone https://github.com/MarijaKnezevic/ckanext-sddi.git
+    git clone https://github.com/tum-gis/ckanext-sddi.git
     cd ckanext-sddi
     pip install -e .
 	pip install -r requirements.txt
@@ -73,7 +73,7 @@ None at present
 To install ckanext-sddi for development, activate your CKAN virtualenv and
 do:
 
-    git clone https://github.com/MarijaKnezevic/ckanext-sddi.git
+    git clone https://github.com/tum-gis/ckanext-sddi.git
     cd ckanext-sddi
     python setup.py develop
     pip install -r dev-requirements.txt
