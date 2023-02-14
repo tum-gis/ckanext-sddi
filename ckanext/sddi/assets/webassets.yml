@@ -1,0 +1,14 @@
+# sddi-js:
+#   filter: rjsmin
+#   output: ckanext-sddi/%(version)s-sddi.js
+#   contents:
+#     - js/sddi.js
+#   extra:
+#     preload:
+#       - base/main
+
+# sddi-css:
+#   filter: cssrewrite
+#   output: ckanext-sddi/%(version)s-sddi.css
+#   contents:
+#     - css/sddi.css
